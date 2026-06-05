@@ -1,0 +1,10 @@
+{
+  "name": "esha-login",
+  "version": "1.0.0",
+  "description": "Simple login page – yellow & purple theme",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
+
