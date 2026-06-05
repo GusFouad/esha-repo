@@ -1,0 +1,10 @@
+{
+  "name": "esha-login",
+  "version": "1.0.0",
+  "description": "Simple login page – yellow & purple theme",
+  "scripts": {
+    "start": "npx --yes serve . --listen 3000",
+    "dev": "npx --yes serve . --listen 3000"
+  }
+}
+
